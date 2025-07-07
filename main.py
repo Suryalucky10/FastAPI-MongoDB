@@ -8,7 +8,7 @@ app.include_router(router)
 # from pymongo.mongo_client import MongoClient
 # from pymongo.server_api import ServerApi
 
-# uri = "mongodb+srv://suryamurikinjeri:987654321@pymongo.w0agsot.mongodb.net/?retryWrites=true&w=majority&appName=PyMongo"
+# uri = "mongodb+srv://Homelander:987654321@pymongo.w0agsot.mongodb.net/?retryWrites=true&w=majority&appName=PyMongo"
 
 # # Create a new client and connect to the server
 # client = MongoClient(uri, server_api=ServerApi('1'))
